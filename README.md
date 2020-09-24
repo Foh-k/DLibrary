@@ -23,3 +23,4 @@
 ### long factMod(long a, long mod = MOD)
 
 チョットマニュアルは後で書く。
+# DLibrary
